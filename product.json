@@ -1,0 +1,99 @@
+[
+    {
+        "id": 1,
+        "name": "Mosu Premium Jacket",
+        "price": 520,
+        "image": "img/products/f1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Mosu Premium Jacket",
+        "price": 520,
+        "image": "img/products/f2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mosu Premium Jacket",
+        "price": 550,
+        "image": "img/products/f3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Mosu Premium Jacket",
+        "price": 600,
+        "image": "img/products/f4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Mosu Premium Coat",
+        "price": 420,
+        "image": "img/products/f5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Mosu Premium Coat",
+        "price": 420,
+        "image": "img/products/f6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Mosu Premium Coat",
+        "price": 530,
+        "image": "img/products/f7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Mosu Premium Black Coat",
+        "price": 530,
+        "image": "img/products/f8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Mosu Premium Green Coat",
+        "price": 600,
+        "image": "img/products/n1.jpg"
+    }
+    ,
+    {
+        "id": 10,
+        "name": "Mosu Premium Coat",
+        "price": 420,
+        "image": "img/products/n2.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Mosu Premium Coat",
+        "price": 1200,
+        "image": "img/products/n3.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Mosu Shirt",
+        "price": 170,
+        "image": "img/products/n4.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Mosu coat",
+        "price": 350,
+        "image": "img/products/n5.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Mosu blazer",
+        "price": 260,
+        "image": "img/products/n6.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Mosu shirt",
+        "price": 120,
+        "image": "img/products/n7.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Mosu Shoes",
+        "price": 80,
+        "image": "img/products/n8.jpg"
+    }
+]
