@@ -12,7 +12,6 @@ MoSu2 is a modern, user-friendly e-commerce platform designed to provide a seaml
 - [Project Journey](#project-journey)
 - [Challenges Overcome](#challenges-overcome)
 - [Future Improvements](#future-improvements)
-- [License](#license)
 
 ## Project Description
 MoSu2 is an e-commerce website developed to provide a seamless and efficient shopping experience. The platform integrates modern web technologies to ensure a smooth and intuitive interface for users, allowing them to browse, manage, and purchase products effortlessly.
