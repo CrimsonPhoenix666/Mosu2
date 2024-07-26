@@ -32,7 +32,7 @@ MoSu2 is an e-commerce website developed to provide a seamless and efficient sho
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mosu2.git
+   git clone https://github.com/CrimsonPhoenix666/mosu2.git
 2. Navigate to the project directory:
    ```bash
    cd mosu2
